@@ -3,7 +3,7 @@
 [⚙️Funcionalidades⚙️](#%EF%B8%8Ffuncionalidades%EF%B8%8F)<br>
 [✅Metodos ultilizados✅](#metodos-ultilizados)<br>
 [🍏Progamas ultilizados🍏](#progamas-ultilizados)<br>
-[🍏Progamas ultilizados🍏](#imagens-do-site)<br>
+[📲Imagens do site📲](#imagens-do-site)<br>
 [👷Criador👷](#criador)<br>
 [📅Datas📅](#datas)<br>
 
@@ -44,18 +44,17 @@ No site fizemos uso da linguagem PHP para fazer linkagem com o banco de dados pa
 
 ## 📲Imagens do site📲
 
-* Tela de inicio:
-![Tela de inicio]<br>
-<img src="Tinicio.png" alt="Texto Alternativo">
+* Tela de inicio:<br>
+<img src="img/Tinicio.png" width="700px">
 
-* Tela do carrinho:
-<img src="Tcarrinho.png" alt="Texto Alternativo">
+* Tela do carrinho:<br>
+<img src="img/Tcarrinho.png" width="700px">
 
-* Cadastro de produtos:
-<img src="Tcaddprodutos.png" alt="Texto Alternativo">
+* Cadastro de produtos:<br>
+<img src="img/Tcaddprodutos.png" width="700px">
 
-* Tela de cadastro de marca:
-<img src="Tcaddmarca.php" alt="Texto Alternativo">
+* Tela de cadastro de marca:<br>
+<img src="img/Tcaddmarca.png" width="700px">
 
 ## 👷Criador👷
 Feito por [Gustavo Henrique](https://github.com/foxymplayer).
@@ -64,4 +63,4 @@ auxiliado por [Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)
 
 ## 📅Datas📅
 Iniciado em: 11/06/2024.
-Finalizado: 23/07/2024.
+Finalizado: 24/07/2024.
