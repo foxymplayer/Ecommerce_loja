@@ -3,7 +3,7 @@
 [⚙️Funcionalidades⚙️](#%EF%B8%8Ffuncionalidades%EF%B8%8F)<br>
 [✅Metodos ultilizados✅](#metodos-ultilizados)<br>
 [🍏Progamas ultilizados🍏](#progamas-ultilizados)<br>
-[]()<>
+[🍏Progamas ultilizados🍏](#imagens-do-site)<br>
 [👷Criador👷](#criador)<br>
 [📅Datas📅](#datas)<br>
 
@@ -45,16 +45,17 @@ No site fizemos uso da linguagem PHP para fazer linkagem com o banco de dados pa
 ## 📲Imagens do site📲
 
 * Tela de inicio:
-![Tela de inicio](../Ecommerce_loja/fotos%20do%20readme/Tinicio.png)<br>
+![Tela de inicio]<br>
+<img src="Tinicio.png" alt="Texto Alternativo">
 
 * Tela do carrinho:
-![carrinho](../Ecommerce_loja/fotos%20do%20readme/Tcarrinho.png)<br>
+<img src="Tcarrinho.png" alt="Texto Alternativo">
 
 * Cadastro de produtos:
-![cadastro de produtos](../Ecommerce_loja/fotos%20do%20readme/Tcaddprodutos.png)<br>
+<img src="Tcaddprodutos.png" alt="Texto Alternativo">
 
 * Tela de cadastro de marca:
-![cadastro de marca](../Ecommerce_loja/fotos%20do%20readme/Tcaddmarca.png)<br>
+<img src="Tcaddmarca.php" alt="Texto Alternativo">
 
 ## 👷Criador👷
 Feito por [Gustavo Henrique](https://github.com/foxymplayer).
